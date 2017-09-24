@@ -1,0 +1,1 @@
+Enter the data that the program asks for and then it will create 3 spawners and use them each twice to create 6 clones.
